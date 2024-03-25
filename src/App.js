@@ -6,6 +6,7 @@ function App() {
     <div style={{ width:'100%', heigth:'100%'}}>
       <Home/>
       {/* <EscolhaFuncionalidade /> */}
+    
     </div>
   );
 }

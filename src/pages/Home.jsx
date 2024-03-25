@@ -25,7 +25,7 @@ const logoContainerStyle = {
   
 const Home = () => {
   return (
-    <div style={{width: '100vw', height: '100vh', display: 'flex', flexDirection: 'row' }}>
+  <div style={{width: '100vw', height: '100vh', display: 'flex', flexDirection: 'row' }}>
     <div style={{width: '50%',  display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center'}}>
         <Avatar sx={{width: '50%', height: '50%'}} src={Logo}  variant="square"/>
     </div>
